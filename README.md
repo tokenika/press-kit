@@ -101,3 +101,37 @@
 
 * [tokenika_eos projects_by_tokenika_logo_print black.eps](./logos/EOS%20PROJECTS%20logo%20by%20TOKENIKA/print/tokenika_eos%20projects_by_tokenika_logo_print%20black.eps)
 * [tokenika_eos projects_by_tokenika_logo_print white.eps](./logos/EOS%20PROJECTS%20logo%20by%20TOKENIKA/print/tokenika_eos%20projects_by_tokenika_logo_print%20white.eps)
+
+
+## EOS REGISTER
+
+### Logo
+
+#### 72dpi (1123px x 613px)
+
+![](./logos/EOS%20REGISTER%20logo/digital/tokenika_eos%20register_logo_72dpi_01.png)
+![](./logos/EOS%20REGISTER%20logo/digital/tokenika_eos%20register_logo_72dpi_02.png)
+
+#### 300pi (4675px x 2552px)
+![](./logos/EOS%20REGISTER%20logo/digital/tokenika_eos%20register_logo_300dpi_01.png)
+![](./logos/EOS%20REGISTER%20logo/digital/tokenika_eos%20register_logo_300dpi_02.png)
+
+#### Vector
+
+* [tokenika_eos projects_logo_print black.eps](./logos/EOS%20REGISTER%20logo/print/tokenika_eos%20register_logo_print%20black.eps)
+* [tokenika_eos projects_logo_print white.eps](./logos/EOS%20REGISTER%20logo/print/tokenika_eos%20register_logo_print%20white.eps)
+
+### Logo with "by Tokenika"
+
+#### 72dpi (1123px x 613px)
+![](./logos/EOS%20REGISTER%20logo%20by%20TOKENIKA/digital/tokenika_eos%20register_by_tokenika_logo_72dpi_01.png)
+![](./logos/EOS%20REGISTER%20logo%20by%20TOKENIKA/digital/tokenika_eos%20register_by_tokenika_logo_72dpi_02.png)
+
+#### 300pi (4675px x 2552px)
+![](./logos/EOS%20REGISTER%20logo%20by%20TOKENIKA/digital/tokenika_eos%20register_by_tokenika_logo_300dpi_01.png)
+![](./logos/EOS%20REGISTER%20logo%20by%20TOKENIKA/digital/tokenika_eos%20register_by_tokenika_logo_300dpi_02.png)
+
+#### Vector
+
+* [tokenika_eos projects_by_tokenika_logo_print black.eps](./logos/EOS%20REGISTER%20logo%20by%20TOKENIKA/print/tokenika_eos%20register_by_tokenika_logo_print%20black.eps)
+* [tokenika_eos projects_by_tokenika_logo_print white.eps](./logos/EOS%20REGISTER%20logo%20by%20TOKENIKA/print/tokenika_eos%20register_by_tokenika_logo_print%20white.eps)
